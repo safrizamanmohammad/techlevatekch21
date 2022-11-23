@@ -1,0 +1,52 @@
+
+        <img src="Round Cyan.png" alt="SWAM Logo" width="200" height="200"
+<br>
+      <h1>This is a H1 heading</h1>
+      <h2>This is a H2 heading</h2>
+      <h3>This is a H3 heading</h3>
+      <h4>This is a H4 heading</h4>
+      <h5>This is a H5 heading</h5>
+      <h6>This is a H6 heading</h6>
+
+<br>
+<br>
+  <p> This is a paragraph</p>
+  <p> This is second line for paragraph </p>
+<br>
+<br>
+    <a href="https://www.elevateacademy.my">Elevate Academy</a>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+    <img src="Secondary.png" alt="Secondary Logo" width="300" height="150"
+<br>
+  <p>Our Service </p>
+
+    <ul>
+      <li> Graphic Design </li>
+      <li> Printing Services </li>
+      <li> Editing Classes </li>
+      <li> Adobe Module </li>
+    </ul>
+<br>
+  <P>Our Service</p>
+
+    <ol>
+      <li> Graphic Design </li>
+      <li> Printing Services </li>
+      <li> Editing Classes </li>
+      <li> Adobe Module </li>
+    </ol>
+  <br>
+  <h2 id="mycities">My Favourite Cities</h2>
+  <h2 class="city">Kuching</h2>
+  <p> Kuching Is The Capital City Of Sarawak</p>
+
+  <h2 class="city">Sibu</h2>
+  <p> Sibu Is The Third Largest City In Sarawak</p>
+
+  <h2 class="city">Miri</h2>
+  <p> The Petroleum City Of Sarawak</p>
